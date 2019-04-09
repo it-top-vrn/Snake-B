@@ -56,7 +56,7 @@ int main()
 	cout << "2 - Medium" << endl;
 	cout << "3 - Hard" << endl;
 	cout << "Enter option ( 1 - 3 ): "; cin >> difficulty; cout << endl;
-
+	cout << "Loading..." << endl;
 
 	run();
 	return 0;
